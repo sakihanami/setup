@@ -13,6 +13,6 @@ manim
 ffmpeg gyan
 add ffmpeg application to path, drag binary into usr/.local/bin
 
-nvm, pnpm
+nodejs (install all the stuff), pnpm
 docker
 environment variables
