@@ -9,4 +9,10 @@ uv powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 |
 manim
 - MikTeX
 - be sure to run MikTeX update, may require restarting computer
-ffmpeg
+7zip
+ffmpeg gyan
+add ffmpeg application to path, drag binary into usr/.local/bin
+
+nvm, pnpm
+docker
+environment variables
