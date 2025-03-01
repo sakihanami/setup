@@ -1,6 +1,7 @@
 # setup
 
-Python 3.8
+uv
+Python 3.12
 Vapoursynth
 VSCode
 Git
